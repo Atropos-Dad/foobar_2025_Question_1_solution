@@ -36,7 +36,7 @@ You’ll analyze several CSV files (each a "table"):
 ## ⚙️ Getting Started
 1. Clone the repo:
    ```sh
-   git clone https://github.com/AD12334/foobar_2025_Q1.git
+   git clone https://github.com/AD12334/foobar_2025_Question_1.git
    ```
 2. Choose your preferred language and tools for analysis. You may use any programming language or software capable of reading CSV files.
 3. (Windows) Run `vault.exe` directly.  
