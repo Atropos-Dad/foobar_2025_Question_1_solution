@@ -23,7 +23,7 @@ You’ll analyze several CSV files (each a "table"):
 ## 🕵️‍♀️ Suspicious Indicators Hints
 - **Geolocation anomalies**
 - **Exceeded Daily Limits more than 3 times** 
-- **Blacklisted Entities**
+- **Blacklisted Entities** - easy
 - **Flagged notes**
 - **Routing issues**
 - **Incorrect amount received**
